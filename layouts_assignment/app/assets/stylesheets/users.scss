@@ -1,0 +1,17 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.space{
+    width:100%;
+}
+.post-btn{
+    color:white;
+    background-color: rgb(43, 173, 173);
+}
+.submit-btn{
+    color:white;
+    background-color: rgb(49, 99, 173);
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
